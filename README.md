@@ -14,3 +14,5 @@ You now need to enter your email address and phone number so the company can con
 
 
 This app is compatible with mobile phones. 
+
+All text within the app will need to be altered by clients as this is the text I was provided with.
